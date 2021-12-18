@@ -257,13 +257,3 @@ since: 2017
 beian:
 robot: "all" ### 控制搜索引擎的抓取和索引编制行为，默认为all
 version: 1.3.0
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-
-theme: hexo-theme-snippet
-
-deploy:
-  type: git
-  repo: git@github.com:qiuqiu1999/qiuqiu1999.github.io.git
-  branch: master
